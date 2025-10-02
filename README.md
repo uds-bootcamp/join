@@ -26,7 +26,7 @@ Here you can join the bootcamp and choose courses
 - [Speech Synthesis & Recognition (ASR)](https://github.com/uds-bootcamp/join/issues/5)
 - [Generative AI with Diffusions](https://github.com/uds-bootcamp/join/issues/8)
 
-### Generative AI
+### MLOps
 
 - [MLOps](https://github.com/uds-bootcamp/join/issues/6)
 - [Advanced MLOps and Scalable Systems](https://github.com/uds-bootcamp/join/issues/12)
