@@ -12,6 +12,7 @@ Here you can join the bootcamp and choose courses
 - [ML Engineering](https://github.com/uds-bootcamp/join/issues/10)
 - [AI Engineering](https://github.com/uds-bootcamp/join/issues/7)
 - [AI for Business](https://github.com/uds-bootcamp/join/issues/15)
+- [Agents](https://github.com/uds-bootcamp/join/issues/20)
 
 ### Computer Vision
 
